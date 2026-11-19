@@ -2,7 +2,7 @@ export const profileData = {
   name: 'Muhammad Yosa Alfiqie',
   role: 'Full Stack Developer',
   // Replace with '/avatar.jpg' after placing your photo inside the public/ folder
-  avatarUrl: 'https://placehold.co/300x300/0f172a/38bdf8?text=MYA',
+  avatarUrl: '/avatar.jpg',
   bio: 'Product-minded engineer with 6+ years of experience building data-intensive platforms, resilient backend services, and 60 FPS user interfaces. Combining deep systems expertise with high-velocity AI workflows to ship sub-100ms APIs and reliable end-to-end features.',
   email: 'yosa.alfq4@gmail.com',
   phone: '+81 70-8546-2083',
